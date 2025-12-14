@@ -1,6 +1,6 @@
 # Documentacion de Recogida de Datos
 
-**Alumno:** ___________________
+**Alumno:** Marcos Uriel Rodíguez
 
 ## Formato del CSV
 
@@ -32,18 +32,15 @@ Marca con [x] el metodo usado y describe brevemente:
 ### Metodo de recogida:
 
 - [ ] **Programa propio**: Cree un programa para jugar y guardar datos
-- [ ] **Manual**: Jugue partidas y apunte los resultados a mano
+- [X] **Manual**: Jugue partidas y apunte los resultados a mano
 - [ ] **Aplicacion/Web externa**: Use una app y exporte los datos
-- [ ] **Otro**: _________________
+- [X] **Otro**: Parte de los datos son de internet de partidas reales
 
 ### Descripcion del proceso:
 
 ```
-(Explica aqui como recogiste los datos. Si usaste un programa,
-describe brevemente como funciona. Si fue manual, explica el proceso.)
-
-
-
+La mayoria de los datos los saque jugando contra mi familia, pero luego
+utilice datos de otra gente para añadir mas "realismo" a los datos.
 
 ```
 ---
@@ -70,12 +67,12 @@ Si capturaste datos extra ademas de los basicos, marcalos aqui:
 
 ## Estadisticas del dataset
 
-- **Total de rondas:** _____
-- **Numero de sesiones/partidas:** _____
-- **Contra cuantas personas diferentes:** _____
+- **Total de rondas:** 131
+- **Numero de sesiones/partidas:** No lo se exactamente, por mi parte mas de 5
+- **Contra cuantas personas diferentes:** No lo se exactamente, por mi parte mas de 5
 
 ### Tipo de IA:
 
 - [ ] **IA Especifica**: Entrenada para ganar a UNA persona concreta
   - Nombre/identificador del oponente: _________________
-- [ ] **IA General**: Entrenada para ganar a cualquier oponente
+- [X] **IA General**: Entrenada para ganar a cualquier oponente
